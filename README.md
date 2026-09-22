@@ -1,6 +1,6 @@
 # B2B Lab Equipment — 11-Year Revenue Concentration & Risk Diagnosis
 
-A historical revenue and customer-concentration study for the same laboratory equipment distributor as [b2b-lab-analytics](https://github.com/immunieid-code/b2b-lab-analytics), reconstructing eleven years of purchase-order history (2013–2023) plus a 2025 outlook to diagnose why revenue swings so hard year to year, and how exposed the business is to losing a handful of accounts.
+A historical revenue and customer-concentration study for **PT Andaru Persada Mandiri**, reconstructing eleven years of purchase-order history (2013–2023) plus a 2025 outlook to diagnose why revenue swings so hard year to year, and how exposed the business is to losing a handful of accounts.
 
 **Tools:** Python (Pandas, NumPy), Excel/Power Pivot for the delivered workbook
 
@@ -27,4 +27,4 @@ The business had two spreadsheets of purchase orders going back to 2013 and a gu
 
 ## Notes
 
-This is a written case study of the method and results, not a runnable pipeline — the client's purchase-order ledger, brand list, and customer identities are confidential and not published here. Segment definitions, growth-rate figures, and the concentration percentages above are the actual figures delivered to the client; per-customer revenue and company names are withheld.
+The cleaned project notebooks are in [`notebooks/2013-2017.ipynb`](notebooks/2013-2017.ipynb) and [`notebooks/2018-2023.ipynb`](notebooks/2018-2023.ipynb). They have no executed outputs. The client's purchase-order ledger and customer-level results are not published, so the notebooks require private inputs before they can run. The 58.5% figure applies to the 2013–2017 portion only; the 2025 outlook is a simulation.
