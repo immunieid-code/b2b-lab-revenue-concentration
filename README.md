@@ -6,6 +6,10 @@ A historical revenue and customer-concentration study for **PT Andaru Persada Ma
 
 ---
 
+## Project Overview
+
+PT Andaru Persada Mandiri's 2026 study reconciled separate 2013–2017 and 2018–2023 purchase-order ledgers to show how revenue and customer concentration changed over eleven years. It is a different client from the PT Gagas Envirotek studies. The 58.5% concentration finding applies only to the 2013–2017 portion; the 2025 outlook is a simulation.
+
 ## The problem
 
 The business had two spreadsheets of purchase orders going back to 2013 and a gut feeling that revenue was "lumpy," but no consolidated view of *how* lumpy, *who* was driving it, or whether the pattern was cyclical, structural, or just noise. Leadership needed to know how much of their revenue sat on a small number of relationships before deciding where to invest in retention versus new business.
